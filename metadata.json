@@ -1,0 +1,6 @@
+{
+  "name": "Retro 3D Wireframe Flight Simulator",
+  "description": "An interactive retro-futuristic 3D wireframe terrain navigation and flight HUD simulator inspired by classic vector graphics and GIS terrain mapping interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
