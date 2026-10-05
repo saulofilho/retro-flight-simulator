@@ -1,0 +1,17 @@
+{
+  "name": "Retro 3D Wireframe Flight Simulator",
+  "short_name": "RetroFlight",
+  "description": "Interactive retro-futuristic 3D wireframe terrain navigation and flight HUD simulator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000820",
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
